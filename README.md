@@ -23,9 +23,9 @@ flugo_chat/
   assets/
   lib/
     components/
+      app_messenger.dart
       chat_message.dart
       swipe_to_reply.dart
-      app_messenger.dart
     screens/
       auth_screen.dart
       chat_screen.dart
