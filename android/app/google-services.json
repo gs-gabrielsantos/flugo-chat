@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "309355334496",
+    "firebase_url": "https://flugo-chat-98693-default-rtdb.firebaseio.com",
+    "project_id": "flugo-chat-98693",
+    "storage_bucket": "flugo-chat-98693.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309355334496:android:1e78f39af4fdb771356c05",
+        "android_client_info": {
+          "package_name": "com.example.flugo_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVnj4GP8fLDI_rjr9jzVF1nsTNxUzJzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
