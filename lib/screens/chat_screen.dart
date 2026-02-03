@@ -253,7 +253,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Chat geral'),
+        title: const Text('Flugo Chat'),
         actions: [
           IconButton(
             onPressed: () {
